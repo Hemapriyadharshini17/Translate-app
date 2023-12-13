@@ -4,7 +4,7 @@
 1. Clone the repository
 
 ```bash
-git clone git@github.com:Hemapriyadharshini17/Translate-app.git
+git clone https://github.com/Hemapriyadharshini17/Translate-app.git
 cd Translate-app
 ```
 
